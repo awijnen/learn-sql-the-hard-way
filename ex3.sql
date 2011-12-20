@@ -20,4 +20,4 @@ insert into person_pet values(0, 0);
 insert into person_pet values(0, 1);
 insert into person_pet values(1, 2);
 insert into person_pet values(1, 3);
-insert into person_pet values(1, 3);
+insert into person_pet values(1, 4);
